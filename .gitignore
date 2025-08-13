@@ -7,3 +7,10 @@
 *.zip
 checkpoints/
 data/
+
+# Large artifacts
+data/
+**/.ipynb_checkpoints/
+*.pth
+*.pt
+*.zip
