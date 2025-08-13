@@ -14,3 +14,7 @@ data/
 *.pth
 *.pt
 *.zip
+
+# keep data local only
+/data/**
+!/data/.gitkeep
