@@ -1,2 +1,9 @@
 .git-credentials
 .gitattributes
+
+# Large artifacts (not tracked)
+*.pth
+*.pt
+*.zip
+checkpoints/
+data/
